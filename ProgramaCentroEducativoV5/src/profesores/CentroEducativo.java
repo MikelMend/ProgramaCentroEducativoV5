@@ -12,7 +12,7 @@ import java.util.TreeMap;
  * @author Mikel Mendoza Rubio
  * @version 5
  */
-public class CentroEducativo { 							//VERSION 5 DE APLICACIÓN
+public class CentroEducativo { 	//VERSION 5 DE APLICACIÓN
 	private static String curso;
 	private static double pagoPorHoraExtra;
 	static TreeMap<String, Persona> lista = new TreeMap<String, Persona>(); // MAP CON PERSONAS
